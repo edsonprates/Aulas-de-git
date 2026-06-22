@@ -1,0 +1,2 @@
+Olá estaremos proporcionando maior confiabilidade de implementação de comando com o nova rotina de trabalho.
+
